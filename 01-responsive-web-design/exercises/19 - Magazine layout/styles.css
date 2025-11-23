@@ -1,0 +1,100 @@
+/* Magazine Layout CSS */
+
+:root {
+  font-size: 16px;
+  --main-color: whitesmoke;
+  --second-color: #000814;
+  --color1: #f8f9fa;
+  --color2: #e9ecef;
+  --color3: #dee2e6;
+  --text-color1: #495057;
+  --text-color2: #343a40;
+  --text-color3: #212529;
+}
+
+body {
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+}
+
+main {
+  margin: auto;
+  padding: 10px;
+  width: 700px;
+  background-color: white;
+}
+
+.magazine-cover {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 1.2fr 1.2fr 1fr;
+  grid-template-rows: auto 1fr 1fr;
+  grid-template-areas:
+    'title title title'
+    'feature-article feature-article cover-image'
+    'small-article1 small-article2 cover-image';
+}
+
+.title {
+  grid-area: title;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75px;
+  font-size: 2em;
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 6px;
+  color: var(--main-color);
+  background-color: var(--second-color);
+}
+
+.feature-article h2 {
+  color: var(--text-color3);
+}
+
+.feature-article {
+  grid-area: feature-article;
+  padding: 10px;
+  color: var(--text-color2);
+}
+
+.small-article1 h2,
+.small-article2 h2 {
+  color: var(--text-color2);
+}
+
+.small-article1,
+.small-article2 {
+  color: var(--text-color1);
+}
+
+.small-article1 {
+  grid-area: small-article1;
+  padding: 10px;
+  border-radius: 6px;
+  color: var(--text-color2);
+  background-color: var(--color2);
+}
+
+.small-article2 {
+  grid-area: small-article2;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: var(--color2);
+}
+
+.cover-image {
+  grid-area: cover-image;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color2);
+}
+
+img {
+  width: 100%;
+  border-radius: 6px;
+}

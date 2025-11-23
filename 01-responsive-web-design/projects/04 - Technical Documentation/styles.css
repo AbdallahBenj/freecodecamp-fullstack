@@ -1,0 +1,87 @@
+/* Technical Documentation */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  color: #4d4e53;
+  line-height: 1.5;
+}
+
+article {
+  margin: 15px;
+}
+
+.main-section li {
+  margin: 15px 0 0 15px;
+}
+
+code {
+  background-color: #f7f7f7;
+  padding: 25px;
+  margin: 15px;
+  border-radius: 5px;
+  display: block;
+  line-height: 2;
+  white-space: pre-line;
+  overflow: auto;
+}
+
+#main-doc {
+  margin-left: 320px;
+  position: absolute;
+  padding: 20px;
+}
+
+#navbar {
+  position: fixed;
+  padding: 20px 0;
+  width: 320px;
+  border-right: 2px solid #778899;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#navbar ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#navbar li {
+  border-top: 1px solid #778899;
+}
+
+#navbar li a:hover {
+  background-color: #4d4e53;
+  color: #f7f7f7;
+}
+
+#navbar li a {
+  text-decoration: none;
+  color: #223344;
+  display: block;
+  cursor: pointer;
+  padding: 12px 30px;
+}
+
+#navbar header {
+  margin-left: 25px;
+}
+
+@media (max-width: 780px) {
+  #navbar {
+    position: relative;
+    border-right: revert;
+    width: 100%;
+    height: auto;
+  }
+
+  #main-doc {
+    margin-left: revert;
+    position: relative;
+    padding: 10px;
+  }
+}

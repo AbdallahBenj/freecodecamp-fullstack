@@ -1,0 +1,311 @@
+/* Landing Page */
+
+:root {
+  --color1: #00abe4;
+  --color2: #e9f1fa;
+  --color3: rgba(30, 55, 90, 0.7);
+  --color4: #2373ff;
+  --color5: #1e375a;
+  --color6: #fff;
+}
+
+body {
+  font-family: sans-serif;
+  color: var(--color3);
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* Header style Css */
+
+#header {
+  top: 0;
+  position: sticky;
+  background-color: var(--color2);
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--color5);
+}
+
+#header-img {
+  width: max(12rem, 12vw);
+  border-radius: 0 0 6px;
+  padding: 0 16px;
+  height: 4rem;
+  background-color: var(--color1);
+  cursor: pointer;
+}
+
+#header-img-link {
+  height: 4rem;
+}
+
+/* Navbar Style Css */
+
+#nav-bar {
+  margin: 0;
+}
+
+#nav-bar ul {
+  display: flex;
+  align-content: center;
+  padding-inline-start: 0;
+  margin: 0;
+}
+
+#nav-bar ul li {
+  display: block;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--color3);
+  font-weight: bold;
+  display: block;
+  width: 160px;
+  height: 61px;
+  text-align: center;
+  align-content: center;
+  border-top: 3px solid transparent;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  color: var(--color1);
+  border-top: 3px solid var(--color1);
+}
+
+/* Form Style Css */
+
+#form {
+  max-width: 30rem;
+  margin: auto;
+}
+
+#form h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 3rem 0 2rem 0;
+}
+
+#email {
+  margin: auto;
+  display: block;
+  width: calc(100% - 24px);
+  height: 2rem;
+  padding: 0 12px;
+}
+
+#submit {
+  display: block;
+  margin: 1.5rem auto 0;
+  width: 50%;
+  height: 2.5rem;
+  cursor: pointer;
+  font-weight: bold;
+  color: var(--color2);
+  border: 2px solid var(--color2);
+  background-color: var(--color1);
+  border-radius: 2px;
+}
+
+#submit:hover {
+  color: var(--color1);
+  border: 2px solid var(--color1);
+  background-color: var(--color2);
+}
+
+/* Main Style Css */
+
+main {
+  display: grid;
+  grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 70rem) minmax(2rem,
+      1fr);
+  justify-content: center;
+}
+
+.main-grid {
+  grid-column: 2/ 3;
+}
+
+#features,
+#how_it_works,
+#pricing {
+  padding-top: 5rem;
+}
+
+#features {
+  display: grid;
+  grid-template-columns: 1fr 85%;
+  justify-content: center;
+  column-gap: 2rem;
+  row-gap: 2rem;
+}
+
+#features .icons {
+  text-align: center;
+  align-content: center;
+  color: var(--color5);
+}
+
+#features .text {
+  line-height: 1rem;
+}
+
+/* How it Works Css */
+
+#video {
+  display: block;
+  margin: auto;
+  width: min(90vw, 520px);
+  aspect-ratio: 16 / 9;
+}
+
+/* Pricing Css */
+
+#pricing {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 2rem;
+  row-gap: 2rem;
+  margin-bottom: 16rem;
+}
+
+.pricing-box {
+  border: 2px solid;
+  text-align: center;
+}
+
+.pricing-box h3 {
+  background-color: var(--color2);
+  padding: 1rem;
+  margin: 0;
+  color: var(--color1);
+}
+
+.pricing-box span {
+  font-weight: bold;
+  font-size: 26px;
+  color: var(--color5);
+}
+
+.pricing-box button {
+  margin-bottom: 2rem;
+  padding: 0.5rem 2rem;
+  font-size: 16px;
+  color: var(--color2);
+  background: var(--color1);
+  border: 2px solid var(--color2);
+  cursor: pointer;
+}
+
+.pricing-box button:hover {
+  color: var(--color1);
+  background-color: var(--color2);
+  border: 2px solid var(--color1);
+}
+
+/* Footer CSS */
+
+#footer {
+  background-color: var(--color2);
+}
+
+#footer-bar {
+  padding-top: 10px;
+}
+
+#footer-bar ul {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 600px;
+  margin: auto;
+  padding: 12px 0;
+  list-style-type: none;
+}
+
+.footer-link {
+  color: var(--color4);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-link:hover {
+  color: var(--color5);
+}
+
+#footer-name {
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+}
+
+/* Media Only Screen CSS */
+
+@media only screen and (max-width: 720px) {
+  .nav-link {
+    width: calc(100vw / 3);
+  }
+
+  #header {
+    height: 8rem;
+    flex-wrap: wrap;
+  }
+
+  #features,
+  #how_it_works,
+  #pricing {
+    padding-top: 10rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #pricing {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  #features {
+    grid-template-columns: 1fr;
+  }
+
+  #features .text {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  #header {
+    top: 0;
+    position: relative;
+    height: 16rem;
+    flex-wrap: wrap;
+  }
+
+  #header-img {
+    position: fixed;
+  }
+
+  #nav-bar ul {
+    flex-wrap: wrap;
+  }
+
+  .nav-link {
+    width: 100vw;
+  }
+
+  #features,
+  #how_it_works,
+  #pricing {
+    padding-top: 5rem;
+  }
+}

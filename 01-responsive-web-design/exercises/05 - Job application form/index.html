@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Job Application Form</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="title">Job Application Form</h1>
+        <form action="" type="post">
+            <label class="normal-label" for="name">Full Name:</label>
+            <input id="name" class="normal-input" type="text" name="name" placeholder="Enter your name">
+            <label class="normal-label" for="email">Email:</label>
+            <input id="email" class="normal-input" type="email" name="email" placeholder="Enter your email">
+            <label class="normal-label" for="position">Position:</label>
+            <select id="position" class="select-input" name="position">
+                <option value="" selected disabled>Select Position</option>
+                <option value="developer">Developer</option>
+                <option value="designer">Designer</option>
+                <option value="manager">Manager</option>
+            </select>
+            <fieldset class="radio-group">
+                <legend>Availability: </legend>
+                <input id="full-time" class="input-radio" type="radio" name="availability" value="full-time"></input>
+                <label class="label-radio" for="full-time">Full-Time</label>
+                <input id="part-time" class="input-radio" type="radio" name="availability" value="part-time"></input>
+                <label class="label-radio" for="part-time">Part-Time</label>
+            </fieldset>
+            <label class="normal-label" for="message">Why do you want this job?</label>
+            <textarea id="message" class="normal-input" name="message" rows="3" placeholder="Write your motivation"></textarea>
+            <button type="submit">Submit Application</button>
+        </form>
+    </div>
+</body>
+
+</html>

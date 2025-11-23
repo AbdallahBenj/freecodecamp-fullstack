@@ -1,0 +1,116 @@
+/* Book Inventory */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  width: 100vw;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-top: 90px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  /* Makes borders look clean */
+}
+
+thead tr {
+  height: 70px;
+}
+
+tbody tr {
+  height: 50px;
+}
+
+thead {
+  background-image: linear-gradient(rgba(0, 191, 255, 0.5),
+      deepskyblue,
+      rgba(0, 191, 255, 0.5));
+}
+
+tr[class='read'] {
+  background-image: linear-gradient(rgba(127, 255, 212, 0.5),
+      aquamarine,
+      rgba(127, 255, 212, 0.5));
+}
+
+tr[class='to-read'] {
+  background-image: linear-gradient(rgba(173, 216, 230, 0.5),
+      lightblue,
+      rgba(173, 216, 230, 0.5));
+}
+
+tr[class='in-progress'] {
+  background-image: linear-gradient(rgba(255, 217, 0, 0.5),
+      gold,
+      rgba(255, 217, 0, 0.5));
+}
+
+span {
+  display: inline-block;
+}
+
+span[class='status'],
+span[class^='rate'] {
+  width: 90%;
+  height: auto;
+  padding: 5px;
+  border-radius: 16px;
+}
+
+tr[class='to-read'] span[class='status'] {
+  border: 2px solid red;
+  background-image: linear-gradient(rgba(255, 0, 0, 0.6),
+      red,
+      rgba(255, 0, 0, 0.6));
+}
+
+tr[class='read'] span[class='status'] {
+  border: 2px solid rgb(0, 205, 0);
+  background-image: linear-gradient(rgba(0, 205, 0, 0.5),
+      rgb(0, 205, 0),
+      rgba(0, 205, 0, 0.5));
+}
+
+tr[class='in-progress'] span[class='status'] {
+  border: 2px solid orange;
+  background-image: linear-gradient(rgba(255, 166, 0, 0.5),
+      orange,
+      rgba(255, 166, 0, 0.5));
+}
+
+span[class^='rate']>span {
+  width: 25px;
+  height: 25px;
+  margin: auto;
+  border-radius: 50%;
+  border: 1px solid gray;
+  background-color: whitesmoke;
+}
+
+span[class~='one'] span:nth-child(1) {
+  background-image: linear-gradient(rgba(255, 217, 0, 0.5),
+      gold,
+      rgba(255, 217, 0, 0.5));
+}
+
+span[class~='two'] span:nth-child(-n + 2) {
+  background-image: linear-gradient(rgba(255, 217, 0, 0.5),
+      gold,
+      rgba(255, 217, 0, 0.5));
+}
+
+span[class~='three'] span {
+  background-image: linear-gradient(rgba(255, 217, 0, 0.5),
+      gold,
+      rgba(255, 217, 0, 0.5));
+}

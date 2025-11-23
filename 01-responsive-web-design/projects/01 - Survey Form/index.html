@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Survey Form</title>
+</head>
+
+<body>
+  <h1 id="title">freeCodeCamp Survey Form</h1>
+  <p id="description">
+    Thank you for taking the time to help us improve the platform
+  </p>
+
+  <form action="" id="survey-form">
+    <fieldset>
+      <legend>Personal information</legend>
+      <label for="name" id="name-label">Name:</label>
+      <input id="name" type="text" placeholder="Enter you name" required />
+
+      <label for="email" id="email-label">Email:</label>
+      <input type="email" name="" id="email" placeholder="Enter your Email" required />
+
+      <label for="number" id="number-label"> Age(optional)</label>
+      <input type="number" name="" id="number" placeholder="Age" min="18" max="65" />
+    </fieldset>
+
+    <fieldset>
+      <legend>Which option best describes your current role?</legend>
+      <select name="" id="dropdown">
+        <option value="option 01">Option 01</option>
+        <option value="option 03">Option 02</option>
+        <option value="option 02">Option 03</option>
+      </select>
+    </fieldset>
+
+    <fieldset>
+      <legend>Would you recommend freeCodeCamp to a friend?</legend>
+      <label>Option 01
+        <input type="radio" name="name" value="option1" id="" />
+      </label>
+      <label>Option 02
+        <input type="radio" name="name" value="option2" id="" />
+      </label>
+      <label>Option 03
+        <input type="radio" name="name" value="option3" id="" />
+      </label>
+    </fieldset>
+
+    <fieldset>
+
+      <label> Option 01
+        <input type="checkbox" name="checkbox 01" value="checkbox 01" id="" />
+      </label>
+
+      <label> Option 02
+        <input type="checkbox" name="checkbox 02" value="checkbox 02" id="" />
+      </label>
+
+      <label>Option 03
+        <input type="checkbox" name="checkbox 03" value="checkbox 03" id="" />
+      </label>
+
+    </fieldset>
+    <fieldset>
+      <textarea name="comment" id="comment"></textarea>
+    </fieldset>
+
+    <button type="submit" id="submit">Submit</button>
+  </form>
+</body>
+
+</html>

@@ -1,0 +1,63 @@
+/* Playing Cards CSS */
+
+body {
+  background-color: whitesmoke;
+}
+
+#playing-cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: 620px;
+  padding: 26px 16px;
+  border-radius: 5px;
+  margin: 20px auto;
+  border: 2px solid lightblue;
+  background-color: lightgrey;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+  height: 200px;
+  font-size: 26px;
+  border-radius: 12px;
+  padding: 6px;
+  border: 2px solid gray;
+  background-color: white;
+  box-shadow: 0 1px 5px black;
+}
+
+.left {
+  align-self: flex-start;
+  text-align: center;
+  line-height: 0.8em;
+}
+
+.middle {
+  text-align: center;
+  align-self: center;
+  font-size: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.right {
+  text-align: center;
+  line-height: 0.8em;
+  align-self: flex-end;
+  transform: rotate(180deg);
+}
+
+.flip {
+  transform: rotate(180deg);
+}
+
+.red {
+  color: red;
+}

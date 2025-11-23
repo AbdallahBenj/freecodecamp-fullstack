@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Bootstrap Icon fonts stylesheet -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+  <title>Bank Account App</title>
+</head>
+
+<body id="body">
+
+  <main class="main container p-0 my-sm-5  overflow-hidden shadow-sm rounded-sm-3">
+
+
+    <!-- First Section-->
+
+    <section class="head-section  p-5">
+      <h1 class="text-light text-center mb-5 fw-bolder">Bank Account App</h1>
+      <div class="balance-container d-flex flex-column flex-sm-row justify-content-around align-items-sm-end">
+        <div>
+
+          <div><button id="user-name-btn"
+              class="name p-0 fs-4 fw-bold text-start link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover btn btn-link">Your
+              Name</button><br>
+
+          </div>
+          <span class=" text-start fs-6">Welcome Back</span>
+        </div>
+        <div>
+
+          <div class="balance fs-1 fw-bolder text-end">
+            <span class="text-light" style="font-size: 1.2em" id="balance">0.00</span>
+            <span class="text-warning">USD</span>
+          </div>
+          <p class="text-end">Your balance</p>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- Second Section-->
+
+    <section class="body-section px-5 py-4">
+
+      <div class="message overflow-hidden form-floating mb-3 border rounded w-100 p-3" id="message">
+        <div class="text-center fw-bold fs-5  row-3 fade-text" id="messageInput">
+          Message
+        </div>
+
+      </div>
+
+      <div class="inputs-container form-floating mb-4">
+
+        <div class="input-group mb-3">
+          <span class="input-group-text">💲</span>
+          <div class="form-floating">
+            <input type="number" class="form-control text-center fw-bold fs-4" id="floatingInput" placeholder="Balance">
+            <label for="floatingInput">Enter
+              balance</label>
+          </div>
+        </div>
+
+        <div class="btn-container d-flex flex-column-reverse flex-sm-row my-3 gap-sm-3">
+          <button type="button" class="withdraw-btn btn btn-sm-lg btn-outline-primary flex-fill mt-3 mt-sm-0"
+            id="withdraw-btn">Withdraw</button>
+          <button type="button" class="deposit-btn btn btn-sm-lg btn-primary flex-fill"
+            id="deposit-btn">Deposit</button>
+        </div>
+      </div>
+
+      <div class="line"></div>
+
+
+      <!-- Last Section-->
+
+      <div class="card m-auto my-4" id="card">
+        <div class="card-body" id="card-body">
+
+          <div class="row">
+            <div class="card-title text-center fs-3 fw-bold " id="transaction">Transactions <i
+                class="bi bi-arrow-down-up"></i></div>
+          </div>
+
+          <div class="child-card-body" id="child-card-body"></div>
+
+
+
+        </div>
+      </div>
+      </div>
+
+    </section>
+
+    <!-- Vertically centered modal -->
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="exampleModalLabel">Your name</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+
+            <!--floating input-->
+            <div class="form-floating mb-3">
+              <input type="text" class="form-control" id="ModalFloatingInput" placeholder="Enter your name"
+                minlength="3" maxlength="16" required>
+              <label for="floatingInput">Please enter your name</label>
+            </div>
+
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" id="btn-save-name">Save changes</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <i id="dark-icon" class="bi bi-circle-half fs-3 position-fixed  bottom-0 end-0 me-3 mb-3"></i>
+
+
+  </main>
+  <!-- Bootstrap JavaScript (optional for components like modal, dropdown) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
+  <script src="script.js" defer></script>
+</body>
+
+</html>

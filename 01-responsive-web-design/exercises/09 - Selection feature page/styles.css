@@ -1,0 +1,75 @@
+/* Selection Feature Page */
+
+body {
+  text-align: center;
+  color: oklch(37.9% 0.146 265.522);
+}
+
+.feature-card-container {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  max-width: 900px;
+}
+
+.feature-card {
+  position: relative;
+  cursor: pointer;
+  max-width: 360px;
+  min-height: 120px;
+  flex: 1 1 calc(50% - 20px);
+
+  padding: 25px;
+  border: 1px solid oklch(28.2% 0.091 267.935);
+  border-radius: 4px;
+  box-shadow: 1px 1px 6px oklch(28.2% 0.091 267.935);
+}
+
+.feature-card:hover {
+  box-shadow: 1px 1px 6px oklch(74.6% 0.16 232.661);
+  border: 1px solid oklch(74.6% 0.16 232.661);
+}
+
+.card-title {
+  display: block;
+  font-weight: bold;
+  font-size: 1.3em;
+  margin-bottom: 0.5em;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  border: 2px solid oklch(28.2% 0.091 267.935);
+  border-radius: 4px;
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+  transition: 0.3s;
+}
+
+input[type="checkbox"]:hover {
+  border-color: oklch(74.6% 0.16 232.661);
+
+}
+
+input[type="checkbox"]:checked {
+  background-color: oklch(74.6% 0.16 232.661);
+  border-color: oklch(74.6% 0.16 232.661);
+}
+
+input[type="checkbox"]:checked::after {
+  display: block;
+  content: '✓';
+  color: white;
+
+  text-align: center;
+  font-size: 20px;
+  line-height: 25px;
+
+  font-weight: bold;
+}
