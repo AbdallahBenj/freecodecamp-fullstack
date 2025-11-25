@@ -55,33 +55,49 @@ The curriculum covered:
 
 ## 📝 Exercises
 
-🔹 Registration Form
+🔹 [HTML audio and video lab](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/01-HTML-audio-and-video-lab/)
 
-Link: #
+🔹 [Movie review](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/02-Movie-review/)
 
-🔹 Photo Gallery
+🔹 [Multimedia player](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/03-Multimedia-player/)
 
-Link: #
+🔹 [Greeting card](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/04-Greeting-card/)
 
-🔹 Accessibility Quiz
+🔹 [Job Application form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/05-Job-Application-form/)
 
-link: #
+🔹 [Registration form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/06-Registration-form/)
 
-🔹 City Skyline
+🔹 [Contact form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/07-Contact-form/)
 
-Link: #
+🔹 [Game settings panel](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/08-Game-settings-panel/)
 
-🔹 Magazine
+🔹 [Selection feature page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/09-Selection-feature-page/)
 
-Link: #
+🔹 [Confidential email](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/10-Confidential-email/)
 
-🔹 Ferris Wheel
+🔹 [Photo gallery](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/11-Photo-gallery/)
 
-Link: #
+🔹 [Newspaper article](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/12-Newspaper-article/)
 
-🔹 Penguin
+🔹 [Accessibility quiz](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/13-Accessibility-quiz/)
 
-Link: #
+🔹 [House painting](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/14-House-painting/)
+
+🔹 [City skyline](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/15-City-skyline/)
+
+🔹 [Availability table](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/16-Availability-table/)
+
+🔹 [Magazine](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/17-Magazine/)
+
+🔹 [Grid template areas](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/18-Grid-template-areas/)
+
+🔹 [Magazine layout](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/19-Magazine-layout/)
+
+🔹 [Ferris wheel](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/20-Ferris-wheel/)
+
+🔹 [Moon orbit](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/21-Moon-orbit/)
+
+🔹 [Flappy penguin](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/exercises/22-Flappy-penguin/)
 
 ---
 
@@ -89,30 +105,27 @@ Link: #
 
 Each project applies HTML/CSS fundamentals, layout techniques, and responsive design.
 
-🔹 Build a **Survey Form**
+🔹 Create a fully structured and accessible form using semantic HTML and CSS styling.
 
-Create a fully structured and accessible form using semantic HTML and CSS styling.
-Link: #
+🔹 Build a [Survey Form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/01-Survey-Form/)
 
-🔹 Build a **Page of Playing Cards**
+🔹 Practice layout, typography, and CSS styling to recreate a set of playing cards.
 
-Practice layout, typography, and CSS styling to recreate a set of playing cards.
-Link: #
+🔹 Build a [Page of Playing Cards](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/02-Playing-Cards/)
 
-🔹 Build a **Book Inventory App**
+🔹 Design a responsive book listing interface using Flexbox or Grid.
 
-Design a responsive book listing interface using Flexbox or Grid.
-Link: #
+🔹 Build a [Book Inventory App](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/03-Book-Inventory/)
 
-🔹 Build a **Technical Documentation Page**
+🔹 Build a multi-section documentation layout with smooth navigation and responsive structure.
 
-Build a multi-section documentation layout with smooth navigation and responsive structure.
-Link: #
+🔹 Build a [Technical Documentation Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/04-Technical-Documentation/)
 
-🔹 Build a **Product Landing Page**
+🔹 Create a marketing landing page with navigation, product sections, and responsive layout.
 
-Create a marketing landing page with navigation, product sections, and responsive layout.
-Link: #
+🔹 Build a [Product Landing Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/05-Landing-Page/)
+
+🔹 Build a [Portfolio-Projects](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/06-Portfolio-Projects/)
 
 ---
 
