@@ -105,25 +105,25 @@ The curriculum covered:
 
 Each project applies HTML/CSS fundamentals, layout techniques, and responsive design.
 
-🔹 Create a fully structured and accessible form using semantic HTML and CSS styling.
-
 🔹 Build a [Survey Form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/01-Survey-Form/)
 
-🔹 Practice layout, typography, and CSS styling to recreate a set of playing cards.
+Create a fully structured and accessible form using semantic HTML and CSS styling.
 
 🔹 Build a [Page of Playing Cards](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/02-Playing-Cards/)
 
-🔹 Design a responsive book listing interface using Flexbox or Grid.
+Practice layout, typography, and CSS styling to recreate a set of playing cards.
 
 🔹 Build a [Book Inventory App](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/03-Book-Inventory/)
 
-🔹 Build a multi-section documentation layout with smooth navigation and responsive structure.
+Design a responsive book listing interface using Flexbox or Grid.
 
 🔹 Build a [Technical Documentation Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/04-Technical-Documentation/)
 
-🔹 Create a marketing landing page with navigation, product sections, and responsive layout.
+Build a multi-section documentation layout with smooth navigation and responsive structure.
 
 🔹 Build a [Product Landing Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/05-Landing-Page/)
+
+Create a marketing landing page with navigation, product sections, and responsive layout.
 
 🔹 Build a [Portfolio-Projects](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/06-Portfolio-Projects/)
 
