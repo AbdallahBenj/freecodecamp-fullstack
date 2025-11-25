@@ -55,6 +55,7 @@ This section focuses on the foundations of **HTML**, **CSS**, layout systems, **
 🔹 Page of Playing Cards – Link: #
 🔹 Book Inventory App – Link: #
 🔹 Technical Documentation Page – Link: #
+
 🔹 Product Landing Page – Link: #
 
 ---
