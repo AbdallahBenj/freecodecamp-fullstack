@@ -24,7 +24,7 @@ This section focuses on the foundations of **HTML**, **CSS**, layout systems, **
 
 ---
 
-### 📘 What I Learned
+### 1.1 📘 What I Learned
 
 #### Core Web Foundations
 
@@ -49,7 +49,7 @@ This section focuses on the foundations of **HTML**, **CSS**, layout systems, **
 
 ---
 
-### 🧩 Projects
+### 1.2 🧩 Projects
 
 🔹 **Survey Form** – Link: #
 
@@ -63,7 +63,7 @@ This section focuses on the foundations of **HTML**, **CSS**, layout systems, **
 
 ---
 
-### 📄 Certification
+### 1.3 📄 Certification
 
 👉 <!-- https://www.freecodecamp.org/certification/YOUR-USERNAME/responsive-web-design -->
 
@@ -75,7 +75,7 @@ This certification teaches the fundamentals and advanced concepts of **JavaScrip
 
 ---
 
-### 📘 What I Learned
+### 2.1 📘 What I Learned
 
 #### JavaScript Essentials
 
@@ -120,7 +120,7 @@ This certification teaches the fundamentals and advanced concepts of **JavaScrip
 
 ---
 
-### 🧩 Projects
+### 2.2 🧩 Projects
 
 🔹 **Markdown to HTML Converter** – Link: #
 
@@ -134,7 +134,7 @@ This certification teaches the fundamentals and advanced concepts of **JavaScrip
 
 ---
 
-### 📄 Certification
+### 2.3 📄 Certification
 
 👉 <!-- https://www.freecodecamp.org/certification/YOUR-USERNAME/javascript-algorithms-and-data-structures -->
 
@@ -148,7 +148,7 @@ This certification teaches modern libraries and tools used in professional front
 
 ---
 
-### 📘 What I Learned
+### 3.1 📘 What I Learned
 
 #### React Fundamentals
 
@@ -183,7 +183,7 @@ This certification teaches modern libraries and tools used in professional front
 
 ---
 
-### 🧩 Projects
+### 3.2 🧩 Projects
 
 (Add links when ready)
 
@@ -192,12 +192,11 @@ This certification teaches modern libraries and tools used in professional front
 🔹 TypeScript-enhanced UI logic
 
 🔹 Tailwind-based UI layouts
-
 🔹 Full-featured front-end apps
 
 ---
 
-### 📄 Certification
+### 3.3 📄 Certification
 
 👉 <!-- https://www.freecodecamp.org/certification/YOUR-USERNAME/front-end-development-libraries -->
 
