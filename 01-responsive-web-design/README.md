@@ -1,4 +1,4 @@
-# Responsive Web Design Certification
+# 🌐 Responsive Web Design Certification
 
 freeCodeCamp – **Full Stack Developer Certification (Responsive Web Design Path)**
 
@@ -10,7 +10,7 @@ The goal of this path is to create real, clean, accessible, and responsive webpa
 
 ---
 
-## About the Certification
+## ⭐ About the Certification
 
 🔹 In this certification, I practiced building real UI components and layouts through hands-on projects.
 The curriculum covered:
@@ -27,7 +27,7 @@ The curriculum covered:
 
 ---
 
-### What I Learned
+### 📘 What I Learned
 
 🔹 Core Web Foundations
 
@@ -53,7 +53,7 @@ The curriculum covered:
 
 ---
 
-## Exercises
+## 📝 Exercises
 
 🔹 Registration Form
 
@@ -85,7 +85,7 @@ Link: #
 
 ---
 
-## Projects
+## 🧩 Projects
 
 Each project applies HTML/CSS fundamentals, layout techniques, and responsive design.
 

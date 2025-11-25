@@ -1,4 +1,4 @@
-# JavaScript Algorithms and Data Structures Certification
+# 🟨 JavaScript Algorithms and Data Structures Certification
 
 freeCodeCamp – **Full Stack Developer Curriculum (JavaScript Certification)**
 
@@ -10,7 +10,7 @@ Throughout the course, I applied these concepts by building real, interactive pr
 
 ---
 
-## About the Certification
+## ⭐ About the Certification
 
 🔹 Developers use HTML and CSS to structure and style webpages, while JavaScript brings them to life through interactivity and dynamic behavior.
 
@@ -18,7 +18,7 @@ Throughout the course, I applied these concepts by building real, interactive pr
 
 ---
 
-## What I Learned
+## 📘 What I Learned
 
 ### JavaScript Fundamentals
 
@@ -90,7 +90,7 @@ Throughout the course, I applied these concepts by building real, interactive pr
 
 ---
 
-## Exercises
+## 📝 Exercises
 
 🔹 **Role Playing Game**
 
@@ -114,7 +114,7 @@ Link: #
 
 ---
 
-## Projects
+## 🧩 Projects
 
 Each project reinforces real-world JavaScript use cases such as UI logic, data management, API usage, and event handling.
 
