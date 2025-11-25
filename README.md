@@ -51,17 +51,17 @@ This section focuses on the foundations of **HTML**, **CSS**, layout systems, **
 
 ### 1.2 🧩 Projects
 
-🔹 **Survey Form**– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/01-Survey-Form/>
+🔹 [Survey Form](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/01-Survey-Form/)
 
-🔹 **Page of Playing Cards** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/02-Playing-Cards/>
+🔹 [Page of Playing Cards](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/02-Playing-Cards/)
 
-🔹 **Book Inventory App** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/03-Book-Inventory/>
+🔹 [Book Inventory App](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/03-Book-Inventory/)
 
-🔹 **Technical Documentation Page** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/04-Technical-Documentation/>
+🔹 [Technical Documentation Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/04-Technical-Documentation/)
 
-🔹 **Product Landing Page** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/05-Landing-Page/>
+🔹 [Product Landing Page](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/05-Landing-Page/)
 
-🔹 **Portfolio-Projects** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/06-Portfolio-Projects/>
+🔹 [Portfolio-Projects](https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/06-Portfolio-Projects/)
 
 ### 1.3 📄 Certification
 
