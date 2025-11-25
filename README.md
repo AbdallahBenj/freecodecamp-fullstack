@@ -51,17 +51,17 @@ This section focuses on the foundations of **HTML**, **CSS**, layout systems, **
 
 ### 1.2 🧩 Projects
 
-🔹 **Survey Form** – Link: #
+🔹 **Survey Form**– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/01-Survey-Form/>
 
-🔹 **Page of Playing Cards** – Link: #
+🔹 **Page of Playing Cards** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/02-Playing-Cards/>
 
-🔹 **Book Inventory App** – Link: #
+🔹 **Book Inventory App** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/03-Book-Inventory/>
 
-🔹 **Technical Documentation Page** – Link: #
+🔹 **Technical Documentation Page** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/04-Technical-Documentation/>
 
-🔹 **Product Landing Page** – Link: #
+🔹 **Product Landing Page** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/05-Landing-Page/>
 
----
+🔹 **Portfolio-Projects** – Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/01-responsive-web-design/projects/06-Portfolio-Projects/>
 
 ### 1.3 📄 Certification
 
@@ -122,15 +122,26 @@ This certification teaches the fundamentals and advanced concepts of **JavaScrip
 
 ### 2.2 🧩 Projects
 
-🔹 **Markdown to HTML Converter** – Link: #
+🔹 **Palindrome Checker**  
+– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/01-Palindrome-Checker/>
 
-🔹 **Drum Machine** – Link: #
+🔹 **Roman Numeral Converter**  
+– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/02-Roman-Numeral-Converter/>
 
-🔹 **Voting System** – Link: #
+🔹 **Markdown to HTML Converter**  
+– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/03-Markdown-to-HTML-Converter/>
 
-🔹 **Bank Account Management Program** – Link: #
+🔹 **Drum Machine**  
+– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/04-Drum-Machine/>
 
-🔹 **Weather App** – Link: #
+🔹 **Voting System**  
+– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/01-Palindrome-Checker/>
+
+🔹 **Bank Account Management Program**  
+– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/05-Bank-Account-App/>
+
+🔹 **Weather App**  
+– Link: <https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/06-Weather-App/>
 
 ---
 
