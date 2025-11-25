@@ -1,100 +1,199 @@
-# Web Development Learning Path
+# 🚀 freeCodeCamp – Full Stack Developer Curriculum
 
-This repository contains my complete learning journey through web development, including both Legacy freeCodeCamp courses and the new full-stack curriculum.
+## My Learning Journey & Projects
 
-Inside this repo, you will find my exercises, projects, and notes for:
+This repository contains my complete work, notes, and projects from the **freeCodeCamp Certified Full Stack Developer Curriculum**.
 
-🔹 HTML & CSS
+It includes three major certifications:
 
-🔹 JavaScript Algorithms and Data Structures
+1. **Responsive Web Design Certification**
 
-Each section has its own folder and includes a detailed README explaining what I learned and the projects inside.
+2. **JavaScript Algorithms and Data Structures Certification**
 
----
+3. **Front End Development Libraries Certification (React, TypeScript, Tailwind)**
 
-## Legacy Responsive Web Design (HTML & CSS)
-
-Location: html-css/
-This section includes all exercises and projects from the Legacy Responsive Web Design Certification.
-
-Inside, you will find:
-
-🔹 HTML & CSS fundamentals
-
-🔹 Accessibility
-
-🔹 Flexbox and Grid
-
-🔹 Responsive layouts
-
-Projects such as:
-
-🔹 Cat Photo App
-
-🔹 Penguin
-
-🔹 Quiz Page
-
-🔹 Photo Gallery
-
-🔹 Magazine Layout
-
-See the full README inside the folder for details.
+Each section summarizes what I learned and includes the projects I built.
 
 ---
 
-## Legacy JavaScript Algorithms and Data Structures
+## 1️⃣ Responsive Web Design Certification
 
-Location: javascript/
+freeCodeCamp – **Full Stack Developer Path (Responsive Web Design)**
 
-This section includes all exercises and algorithm challenges from the Legacy JavaScript Algorithms and Data Structures Certification.
-
-Topics covered:
-
-🔹 JavaScript basics (variables, arrays, objects, loops, functions)
-
-🔹 DOM manipulation
-
-🔹 OOP and Functional Programming
-
-🔹 Algorithms
-
-🔹 Local storage
-
-🔹 Fetch API and async JavaScript
-
-See the full README inside the folder for more information.
+This section focuses on the foundations of **HTML**, **CSS**, layout systems, **accessibility**, and modern **responsive web design**.
 
 ---
 
-## About the Legacy Courses
+### 📘 What I Learned
 
-The HTML/CSS and JavaScript sections in this repository come from the older version of freeCodeCamp’s curriculum.
-They remain valuable for strengthening core web development skills.
+#### Core Web Foundations
 
----
+- Semantic and accessible HTML
+- Forms, inputs, labels, tables
+- CSS selectors, units, spacing, typography
+- Working with images, backgrounds, and gradients
 
-## Moving to the New freeCodeCamp Full-Stack Course
+#### Modern CSS Techniques
 
-I have now started the new freeCodeCamp full-stack web development path, which includes:
+- Flexbox
+- CSS Grid
+- CSS Variables
+- Positioning (relative, absolute, fixed, sticky)
+- Responsive design (media queries, mobile-first)
 
-🔹 Updated Responsive Web Design
+#### Accessibility
 
-🔹 Modern JavaScript
-
-🔹 Databases
-
-🔹 APIs and Back-End
-
-🔹 Front-End Libraries
-
-🔹 Full-stack projects
-
-Future exercises and projects from the new curriculum will be added to this repository as I progress.
+- ARIA labels
+- Keyboard-friendly layout
+- Proper semantic structure
 
 ---
 
-### Purpose
+### 🧩 Projects
 
-This repo documents my long-term learning path as I continue improving my web development skills step by step.
-It also helps me keep my work organized and serves as a public record of my progress.
+🔹 Survey Form – Link: #
+🔹 Page of Playing Cards – Link: #
+🔹 Book Inventory App – Link: #
+🔹 Technical Documentation Page – Link: #
+🔹 Product Landing Page – Link: #
+
+---
+
+### 📄 Certification
+
+👉 <!-- https://www.freecodecamp.org/certification/YOUR-USERNAME/responsive-web-design -->
+
+---
+
+## 2️⃣ JavaScript Algorithms and Data Structures Certification
+
+This certification teaches the fundamentals and advanced concepts of **JavaScript programming**, from variables and loops to APIs and asynchronous code.
+
+---
+
+### 📘 What I Learned
+
+#### JavaScript Essentials
+
+- Variables, data types, operators
+- Arrays, objects, loops
+- Functions, scope, and error handling
+
+#### DOM & Browser Manipulation
+
+- Selecting/modifying elements
+- Creating and removing elements
+- Styling with JavaScript
+- Event listeners (click, input, keyboard)
+
+#### Advanced JavaScript
+
+- ES6 features: let/const, arrow functions, classes, modules
+- Functional programming (map, filter, reduce)
+- OOP (classes, constructors, methods)
+- Closures, higher-order functions
+- Local storage, JSON
+
+#### Algorithms & Logic
+
+- Basic algorithms
+- String & array manipulation
+- Recursion
+- Debugging and problem-solving
+
+#### Asynchronous Programming
+
+- Promises
+- async/await
+- Fetch API
+- Working with APIs & real data
+
+#### Accessibility in JavaScript
+
+- ARIA roles
+- Keyboard interactions
+- Accessible interactive UI
+
+---
+
+### 🧩 Projects
+
+1️⃣ **Markdown to HTML Converter** – Link: #
+2️⃣ **Drum Machine** – Link: #
+3️⃣ **Voting System** – Link: #
+4️⃣ **Bank Account Management Program** – Link: #
+5️⃣ **Weather App** – Link: #
+
+---
+
+### 📄 Certification
+
+👉 <!-- https://www.freecodecamp.org/certification/YOUR-USERNAME/javascript-algorithms-and-data-structures -->
+
+---
+
+## 3️⃣ Front End Development Libraries Certification
+
+(React, TypeScript, Tailwind CSS)
+
+This certification teaches modern libraries and tools used in professional front-end development.
+
+---
+
+### 📘 What I Learned
+
+#### React Fundamentals
+
+- Components
+- Props & state
+- Event handling
+- Conditional rendering
+- Lists & keys
+- React hooks (useState, useEffect)
+- Component structure & modular code
+
+#### TypeScript Basics
+
+- Types, interfaces, and type inference
+- Function typing & generics
+- Type-safe React components
+- Cleaner and safer code structure
+
+#### Tailwind CSS
+
+- Utility-first styling
+- Responsive design using utility classes
+- Customizing themes
+- Building components rapidly
+- Consistent layout without writing custom CSS
+
+#### Additional Tools
+
+- JSX
+- Bundlers & build tools
+- Modern front-end workflow
+
+---
+
+### 🧩 Projects
+
+(Add links when ready)
+
+🔹 React component-focused projects
+🔹 TypeScript-enhanced UI logic
+🔹 Tailwind-based UI layouts
+🔹 Full-featured front-end apps
+
+---
+
+### 📄 Certification
+
+👉 <!-- https://www.freecodecamp.org/certification/YOUR-USERNAME/front-end-development-libraries -->
+
+---
+
+## ✅ Final Notes
+
+This repository documents my ongoing progress through the **freeCodeCamp Full Stack Developer Curriculum** — including web design, JavaScript, React, TypeScript, Tailwind, and modern front-end development.
+
+More sections (Backend, Databases, APIs, Full-Stack Projects) will be added as I advance.
