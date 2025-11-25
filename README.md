@@ -196,6 +196,7 @@ This certification teaches modern libraries and tools used in professional front
 🔹 TypeScript-enhanced UI logic
 
 🔹 Tailwind-based UI layouts
+
 🔹 Full-featured front-end apps
 
 ---
