@@ -51,12 +51,15 @@ This section focuses on the foundations of **HTML**, **CSS**, layout systems, **
 
 ### 🧩 Projects
 
-🔹 Survey Form – Link: #
-🔹 Page of Playing Cards – Link: #
-🔹 Book Inventory App – Link: #
-🔹 Technical Documentation Page – Link: #
+🔹 **Survey Form** – Link: #
 
-🔹 Product Landing Page – Link: #
+🔹 **Page of Playing Cards** – Link: #
+
+🔹 **Book Inventory App** – Link: #
+
+🔹 **Technical Documentation Page** – Link: #
+
+🔹 **Product Landing Page** – Link: #
 
 ---
 
@@ -119,11 +122,15 @@ This certification teaches the fundamentals and advanced concepts of **JavaScrip
 
 ### 🧩 Projects
 
-1️⃣ **Markdown to HTML Converter** – Link: #
-2️⃣ **Drum Machine** – Link: #
-3️⃣ **Voting System** – Link: #
-4️⃣ **Bank Account Management Program** – Link: #
-5️⃣ **Weather App** – Link: #
+🔹 **Markdown to HTML Converter** – Link: #
+
+🔹 **Drum Machine** – Link: #
+
+🔹 **Voting System** – Link: #
+
+🔹 **Bank Account Management Program** – Link: #
+
+🔹 **Weather App** – Link: #
 
 ---
 
@@ -181,8 +188,11 @@ This certification teaches modern libraries and tools used in professional front
 (Add links when ready)
 
 🔹 React component-focused projects
+
 🔹 TypeScript-enhanced UI logic
+
 🔹 Tailwind-based UI layouts
+
 🔹 Full-featured front-end apps
 
 ---
