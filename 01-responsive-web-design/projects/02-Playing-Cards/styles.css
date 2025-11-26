@@ -1,13 +1,5 @@
 /* Playing Cards CSS */
 
-*,
-*::after,
-*::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   background-color: whitesmoke;
 }
@@ -18,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 20px;
-  width: 100%;
+  /* width: 100%; */
   max-width: 620px;
   padding: 26px 16px;
   border-radius: 5px;
@@ -49,7 +41,7 @@ body {
 .middle {
   text-align: center;
   align-self: center;
-  font-size: 60px;
+  font-size: 1.5em;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
