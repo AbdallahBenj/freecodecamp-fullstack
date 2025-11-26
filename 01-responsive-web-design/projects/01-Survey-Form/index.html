@@ -8,67 +8,106 @@
 </head>
 
 <body>
-  <h1 id="title">freeCodeCamp Survey Form</h1>
-  <p id="description">
-    Thank you for taking the time to help us improve the platform
-  </p>
+  <main>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">
+      Thank you for taking the time to help us improve the platform
+    </p>
 
-  <form action="" id="survey-form">
-    <fieldset>
-      <legend>Personal information</legend>
-      <label for="name" id="name-label">Name:</label>
-      <input id="name" type="text" placeholder="Enter you name" required />
+    <form action="" id="survey-form">
+      <fieldset>
+        <legend>Personal information</legend>
+        <label for="name" id="name-label">Name</label>
+        <input id="name" name="name" type="text" placeholder="Enter your name" required />
 
-      <label for="email" id="email-label">Email:</label>
-      <input type="email" name="" id="email" placeholder="Enter your Email" required />
+        <label for="email" id="email-label">Email</label>
+        <input id="email" name="email" type="email" placeholder="Enter your Email" required />
 
-      <label for="number" id="number-label"> Age(optional)</label>
-      <input type="number" name="" id="number" placeholder="Age" min="18" max="65" />
-    </fieldset>
+        <label for="number" id="number-label"> Age(optional)</label>
+        <input id="number" name="age" type="number" placeholder="Age" min="18" max="65" />
+      </fieldset>
 
-    <fieldset>
-      <legend>Which option best describes your current role?</legend>
-      <select name="" id="dropdown">
-        <option value="option 01">Option 01</option>
-        <option value="option 03">Option 02</option>
-        <option value="option 02">Option 03</option>
-      </select>
-    </fieldset>
+      <fieldset>
+        <p>Which option best describes your current role?</p>
+        <select name="current-role" id="dropdown" required>
+          <option disabled selected>Select your role</option>
+          <option value="Student">Student</option>
+          <option value="Full Time Job">Full Time Job</option>
+          <option value="Full Time Learner">Full Time Learner</option>
+          <option value="Prefer not to say">Prefer not to say</option>
+          <option value="Other">Other</option>
+        </select>
+      </fieldset>
 
-    <fieldset>
-      <legend>Would you recommend freeCodeCamp to a friend?</legend>
-      <label>Option 01
-        <input type="radio" name="name" value="option1" id="" />
-      </label>
-      <label>Option 02
-        <input type="radio" name="name" value="option2" id="" />
-      </label>
-      <label>Option 03
-        <input type="radio" name="name" value="option3" id="" />
-      </label>
-    </fieldset>
+      <fieldset>
+        <p>Would you recommend freeCodeCamp to a friend?</p>
+        <label>
+          <input type="radio" name="recommend" value="Definitely" required />
+          Definitely</label>
+        <label>
+          <input type="radio" name="recommend" value="Maybe" />
+          Maybe</label>
+        <label>
+          <input type="radio" name="recommend" value="Not sure" />
+          Not sure</label>
+      </fieldset>
 
-    <fieldset>
+      <fieldset>
+        <P>What would you like to see improved? (Check all that apply)</P>
+        <label>
+          <input type="checkbox" name="improve" value="Front-end Projects" />
+          Front-end Projects</label>
 
-      <label> Option 01
-        <input type="checkbox" name="checkbox 01" value="checkbox 01" id="" />
-      </label>
+        <label>
+          <input type="checkbox" name="improve" value="Back-end Projects" />
+          Back-end Projects</label>
 
-      <label> Option 02
-        <input type="checkbox" name="checkbox 02" value="checkbox 02" id="" />
-      </label>
+        <label>
+          <input type="checkbox" name="improve" value="Data Visualization" />
+          Data Visualization</label>
 
-      <label>Option 03
-        <input type="checkbox" name="checkbox 03" value="checkbox 03" id="" />
-      </label>
+        <label>
+          <input type="checkbox" name="improve" value="Challenges" />
+          Challenges</label>
 
-    </fieldset>
-    <fieldset>
-      <textarea name="comment" id="comment"></textarea>
-    </fieldset>
+        <label>
+          <input type="checkbox" name="improve" value="Open Source Community" />
+          Open Source Community</label>
 
-    <button type="submit" id="submit">Submit</button>
-  </form>
+        <label>
+          <input type="checkbox" name="improve" value="Gitter help rooms" />
+          Gitter help rooms</label>
+
+        <label>
+          <input type="checkbox" name="improve" value="Videos" />
+          Videos</label>
+
+        <label>
+          <input type="checkbox" name="improve" value="City Meetups" />
+          City Meetups</label>
+
+        <label>
+          <input type="checkbox" name="improve" value="Wiki" />
+          Wiki</label>
+
+        <label>
+          <input type="checkbox" name="improve" value="Forum" />
+          Forum</label>
+
+        <label>
+          <input type="checkbox" name="improve" value="Additional Courses" />
+          Additional Courses</label>
+
+      </fieldset>
+
+      <fieldset>
+        <p>Any comments or suggestions?</p>
+        <textarea id="comment" name="comment" rows="4" placeholder="Enter your comment here..."></textarea>
+      </fieldset>
+
+      <button type="submit" id="submit">Submit</button>
+    </form>
+  </main>
 </body>
 
 </html>
