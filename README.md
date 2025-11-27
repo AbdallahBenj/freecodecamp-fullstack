@@ -140,7 +140,8 @@ This certification teaches the fundamentals and advanced concepts of **JavaScrip
 
 ### 2.3 📄 Certification
 
-👉 <!-- https://www.freecodecamp.org/certification/YOUR-USERNAME/javascript-algorithms-and-data-structures -->
+You can view the completed certification here:  
+👉 [Legacy Responsive Web Design Certification](https://www.freecodecamp.org/certification/abdallahben/responsive-web-design)
 
 ---
 
