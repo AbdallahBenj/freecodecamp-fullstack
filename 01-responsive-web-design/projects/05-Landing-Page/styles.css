@@ -9,6 +9,10 @@
   --color6: #fff;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: sans-serif;
   color: var(--color3);
