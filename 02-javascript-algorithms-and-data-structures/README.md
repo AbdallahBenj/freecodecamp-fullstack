@@ -150,26 +150,6 @@ Throughout the course, I applied these concepts by building real, interactive pr
 
 🔹 [forum leaderboard](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/30-forum-leaderboard)
 
-🔹 **Role Playing Game**
-
-Link: #
-
-🔹 **BackGround Color change**
-
-Link: #
-
-🔹 **Calorie Counter**
-
-Link: #
-
-🔹 **Rock Paper Scissors game**
-
-Link: #
-
-🔹 **Music Player App**
-
-Link: #
-
 ---
 
 ## 🧩 Projects
