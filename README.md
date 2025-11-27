@@ -212,3 +212,43 @@ This certification teaches modern libraries and tools used in professional front
 This repository documents my ongoing progress through the **freeCodeCamp Full Stack Developer Curriculum** — including web design, JavaScript, React, TypeScript, Tailwind, and modern front-end development.
 
 More sections (Backend, Databases, APIs, Full-Stack Projects) will be added as I advance.
+
+## 📂 FreeCodeCamp Full Stack – Folder Structure
+
+🔹 This repository contains all my **FreeCodeCamp Full Stack Developer** course work, organized into modules.
+
+🔹 Each folder includes both **exercises for practice** and **final projects** required for certification.
+
+**freeCodeCamp**-fullstack/
+│
+├── responsive-web-design/
+│ ├── exercises/ # Practice tasks and small challenges
+│ ├── projects/ # Required FCC projects (Landing Page, Survey Form…)
+│ └── README.md/ # Note
+│
+├── javascript-algorithms-and-data-structures/
+│ ├── exercises/ # JS practice files, algorithms, logic drills
+│ ├── projects/ # FCC JS certification projects (Palindrome, Converter…)
+│ └── README.md/ # Note
+│
+├── front-end-development-libraries/
+│ ├── exercises/ # React, Redux, Bootstrap practice
+│ ├── projects/ # FCC library-based projects (Drum Machine, Quote Machine…)
+│ └── README.md/ # Note
+│
+├── data-visualization/
+│ ├── exercises/ # D3.js and charting experiments
+│ ├── projects/ # FCC visualization projects
+│ └── README.md/ # Note
+│
+├── back-end-development-and-apis/
+│ ├── exercises/ # Node.js, Express, routing practice
+│ ├── projects/ # API apps (Timestamp, URL Shortener…)
+│ └── README.md/ # Note
+│
+├── quality-assurance/
+│ ├── exercises/ # Testing practice (Mocha/Chai)
+│ ├── projects/ # QA certification projects
+│ └── README.md/ # Note
+│
+└── README.md/
