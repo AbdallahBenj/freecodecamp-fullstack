@@ -1,0 +1,51 @@
+/* Bank Account App */
+
+body {
+  color: #0d1b2a;
+  font-family: 'Inter', sans-serif;
+}
+
+.head-section {
+  background: linear-gradient(-45deg, oklch(82.8% 0.111 230.318), oklch(62.3% 0.214 259.815));
+}
+
+.balance-container {
+  height: 90px;
+}
+
+
+.message {
+  display: none;
+}
+
+
+.line {
+  border-bottom: 1px solid rgb(13 110 253)
+}
+
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+  }
+
+  25% {
+    opacity: 0.5;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.fadeUp {
+  animation: fade-up 1s ease-in-out;
+}
+
+@media (min-width: 576px) {
+
+  /* sm and up */
+  .rounded-sm-3 {
+    border-radius: 0.5rem !important;
+    /* equivalent to rounded-3 */
+  }
+}

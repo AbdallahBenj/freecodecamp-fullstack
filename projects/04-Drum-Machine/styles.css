@@ -1,0 +1,143 @@
+/*** Drum Machine ***/
+
+:root {
+    --color-primary: #0d1b5a;
+    --color-secondary: #f5f5f5;
+    --color-accent: #2196F3;
+    --color-text: #f0f8ff;
+    --color-btn-off: #bdbdbd;
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    color: var(--color-text);
+    padding: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to bottom right, #0d1b5a, midnightblue);
+}
+
+#drum-machine {
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    padding: 36px;
+    border-radius: 16px;
+    background-color: var(--color-primary);
+    box-shadow: 0px 0px 6px 1px var(--color-secondary);
+
+}
+
+.pad-bank {
+
+    margin-top: 36px;
+    padding: 12px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    gap: 12px;
+}
+
+.drum-pad {
+    display: block;
+    width: 120px;
+    height: 90px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: var(--color-text);
+    background-color: var(--color-primary);
+    box-shadow: 0.5px 0.5px 5px 1px var(--color-secondary);
+}
+
+.drum-pad:hover,
+.hover {
+    color: var(--color-primary);
+    background-color: var(--color-secondary);
+    box-shadow: revert;
+}
+
+.drum-pad:active,
+.active {
+    color: var(--color-secondary);
+    background-color: var(--color-accent);
+    box-shadow: inset 0.5px 0.5px 6px 1px var(--color-secondary);
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.power,
+.bank {
+    margin-top: 36px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.display {
+    display: none;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 26px;
+    border-radius: 6px;
+    margin: 36px 16px 26px;
+    color: var(--color-primary);
+    background-color: var(--color-text);
+}
+
+input[type="checkbox"] {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.label {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider {
+    position: relative;
+    width: 46px;
+    height: 22px;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 13px;
+    background-color: var(--color-btn-off);
+}
+
+
+.slider-btn {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 3px;
+    top: 3px;
+    align-items: center;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: var(--color-primary);
+}
+
+
+input:checked+.slider {
+    background-color: var(--color-accent);
+    box-shadow: 0px 0px 2px 1px var(--color-secondary);
+}
+
+input:checked+.slider .slider-btn {
+    background-color: var(--color-secondary);
+    left: revert;
+    right: 5px;
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Weather App</title>
+</head>
+
+<body>
+  <main class="main-content">
+    <h1>Weather App</h1>
+
+    <section id="display-section" class="display-section" role="status">
+      <p class="display-title">Please select a city to view the weather.</p>
+
+      <div class="top-display-section">
+
+        <div>
+          <img src="" alt="" id="weather-icon">
+          <p id="weather-main"></p>
+        </div>
+
+        <div>
+          <p id="main-temperature"></p>
+          <p id="location"></p>
+        </div>
+
+      </div>
+
+      <div id="divider"></div>
+
+      <div>
+        <p id="feels-like"></p>
+        <p id="humidity"></p>
+
+        <div id="divider"></div>
+
+        <p id="wind"></p>
+        <p id="wind-gust"></p>
+      </div>
+
+    </section>
+
+    <div class="controls-section">
+
+      <label for="select-location" class="label-location">Choose a city</label>
+      <div class="location-section">
+        <select name="select-location" id="select-location" class="select-location">
+          <option value="" disabled selected>Select</option>
+          <option value="new york">New York</option>
+          <option value="los angeles">Los Angeles</option>
+          <option value="chicago">Chicago</option>
+          <option value="paris">Paris</option>
+          <option value="tokyo">Tokyo</option>
+          <option value="london">London</option>
+        </select>
+      </div>
+      <button type="button" id="get-weather-btn" class="button" aria-label="Apply selected city"
+        aria-controls="display-section">Select</button>
+
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+
+</html>
