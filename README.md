@@ -92,63 +92,63 @@ Throughout the course, I applied these concepts by building real, interactive pr
 
 ## 📝 Exercises
 
-🔹 [Storytelling app](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/02-Storytelling-app/)
+🔹 [Storytelling app](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/02-Storytelling-app/)
 
-🔹 [Emoji reactor](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/03-Emoji-reactor)
+🔹 [Emoji reactor](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/03-Emoji-reactor)
 
-🔹 [Favorite icon toggler](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/04-Favorite-icon-toggler)
+🔹 [Favorite icon toggler](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/04-Favorite-icon-toggler)
 
-🔹 [Music instruments](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/05-Music-instruments)
+🔹 [Music instruments](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/05-Music-instruments)
 
-🔹 [Real time counter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/06-Real-time-counter)
+🔹 [Real time counter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/06-Real-time-counter)
 
-🔹 [Lightbox viewer](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/07-Lightbox-viewer)
+🔹 [Lightbox viewer](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/07-Lightbox-viewer)
 
-🔹 [Rock paper scissors game](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/08-Rock-paper-scissors-game)
+🔹 [Rock paper scissors game](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/08-Rock-paper-scissors-game)
 
-🔹 [Football team cards](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/09-Football-team-cards)
+🔹 [Football team cards](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/09-Football-team-cards)
 
-🔹 [Planets facts](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/10-Planets-facts)
+🔹 [Planets facts](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/10-Planets-facts)
 
-🔹 [Note taking app](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/11-Note-taking-app)
+🔹 [Note taking app](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/11-Note-taking-app)
 
-🔹 [Theme switcher](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/12-Theme-switcher)
+🔹 [Theme switcher](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/12-Theme-switcher)
 
-🔹 [Background color changer](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/13-Background-color-changer)
+🔹 [Background color changer](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/13-Background-color-changer)
 
-🔹 [Spam filter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/14-Spam-filter)
+🔹 [Spam filter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/14-Spam-filter)
 
-🔹 [Number sorter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/15-Number-sorter)
+🔹 [Number sorter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/15-Number-sorter)
 
-🔹 [Statistics calculator](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/16-Statistics-calculator)
+🔹 [Statistics calculator](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/16-Statistics-calculator)
 
-🔹 [Regex sandbox](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/17-Regex-sandbox)
+🔹 [Regex sandbox](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/17-Regex-sandbox)
 
-🔹 [Calorie counter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/18-Calorie-counter)
+🔹 [Calorie counter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/18-Calorie-counter)
 
-🔹 [Customer complaint form](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/19-Customer-complaint-form)
+🔹 [Customer complaint form](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/19-Customer-complaint-form)
 
-🔹 [Date formatter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/20-Date-formatter)
+🔹 [Date formatter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/20-Date-formatter)
 
-🔹 [Music player app](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/21-Music-player-app)
+🔹 [Music player app](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/21-Music-player-app)
 
-🔹 [Todo app](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/22-Todo-app)
+🔹 [Todo app](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/22-Todo-app)
 
-🔹 [Bookmark-manager](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/23-Bookmark-manager)
+🔹 [Bookmark-manager](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/23-Bookmark-manager)
 
-🔹 [Decimal to binary converter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/24-Decimal-to-binary-converter)
+🔹 [Decimal to binary converter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/24-Decimal-to-binary-converter)
 
-🔹 [Spreadsheet](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/25-Spreadsheet)
+🔹 [Spreadsheet](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/25-Spreadsheet)
 
-🔹 [Shopping cart](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/26-Shopping-cart)
+🔹 [Shopping cart](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/26-Shopping-cart)
 
-🔹 [Recipe ingredient converter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/27-Recipe-ingredient-converter)
+🔹 [Recipe ingredient converter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/27-Recipe-ingredient-converter)
 
-🔹 [Sorting visualizer](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/28-Sorting-visualizer)
+🔹 [Sorting visualizer](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/28-Sorting-visualizer)
 
-🔹 [news author page](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/29-news-author-page)
+🔹 [news author page](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/29-news-author-page)
 
-🔹 [forum leaderboard](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/exercises/30-forum-leaderboard)
+🔹 [forum leaderboard](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/exercises/30-forum-leaderboard)
 
 ---
 
@@ -156,31 +156,31 @@ Throughout the course, I applied these concepts by building real, interactive pr
 
 Each project reinforces real-world JavaScript use cases such as UI logic, data management, API usage, and event handling.
 
-1.🔹 Build a [Palindrome Checker](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/01-Palindrome-Checker/)
+1.🔹 Build a [Palindrome Checker](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/projects/01-Palindrome-Checker/)
 
 Create a simple tool that analyzes text and determines if it’s a palindrome using string manipulation.
 
-2.🔹 Build a [Roman Numeral Converter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/02-Roman-Numeral-Converter/)
+2.🔹 Build a [Roman Numeral Converter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/projects/02-Roman-Numeral-Converter/)
 
 Convert numbers into their Roman numeral equivalents using JavaScript logic and mapping structures.
 
-3.🔹 Build a [Markdown to HTML Converter](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/03-Markdown-to-HTML-Converter/)
+3.🔹 Build a [Markdown to HTML Converter](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/projects/03-Markdown-to-HTML-Converter/)
 
 Convert **Markdown text into formatted HTML** using JavaScript string manipulation and DOM updates.
 
-4.🔹 Build a [Drum Machine](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/04-Drum-Machine/)
+4.🔹 Build a [Drum Machine](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/projects/04-Drum-Machine/)
 
 Create an interactive audio interface with event listeners and keyboard controls.
 
-5.🔹 Build a [Voting System](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/01-Palindrome-Checker/)
+5.🔹 Build a [Voting System](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/projects/01-Palindrome-Checker/)
 
 Implement dynamic UI updates, local storage, and data structures to track votes.
 
-6.🔹 Build a [Bank Account Management Program](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/05-Bank-Account-App/)
+6.🔹 Build a [Bank Account Management Program](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/projects/05-Bank-Account-App/)
 
 Work with objects, arrays, and logic to simulate deposit, withdrawal, and account tracking.
 
-7.🔹 Build a [Weather App](https://abdallahbenj.github.io/freecodecamp-fullstack/02-javascript-algorithms-and-data-structures/projects/06-Weather-App/)
+7.🔹 Build a [Weather App](https://abdallahbenj.github.io/freecodecamp-javascript-algorithms-and-data-structures/projects/06-Weather-App/)
 
 Use the Fetch API and async/await to retrieve and display real-time weather data.
 
